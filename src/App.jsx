@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-       <a href="index.html">Click aqui</a>
+       <a href="index2.html">Click aqui</a>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
